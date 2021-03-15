@@ -3,6 +3,8 @@
 I started my programming studies in 2016, doing a technical computing course.
 #### In 2017 I stopped studing programming, but returned back in 2020. Since then, I've been gradually learning the following technologies:
 - Javascript
+- Typescript
+- ReactJs
 - HTML
 - CSS
 - C++
