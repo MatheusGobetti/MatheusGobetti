@@ -13,7 +13,7 @@ I started my programming studies in 2016, doing a technical computing course.
 - Linkedin: https://www.linkedin.com/in/matheusgobetti/
 - E-mail: matheusgobetti12@gmail.com
 -----------------
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MatheusGobetti&layout=compact&theme=radical" />
+<img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=MatheusGobetti&layout=compact&theme=radical" />
 
 <!--
 **MatheusGobetti/MatheusGobetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
