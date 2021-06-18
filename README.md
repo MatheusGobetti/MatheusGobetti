@@ -22,8 +22,8 @@
 
 -----------------
 <p>
-<img height="200" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=MatheusGobetti&layout=compact&theme=radical" />
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=matheusgobetti&theme=radical&show_icons=true"/>
+<img height="150" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=MatheusGobetti&layout=compact&theme=radical" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=matheusgobetti&theme=radical&show_icons=true"/>
 </p>
 
 <!--
