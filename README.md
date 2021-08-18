@@ -24,7 +24,7 @@
 
 -----------------
 <p>
-<img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gobetti&theme=radical&layout=compact&custom_title=Time spent coding in the last 7 days:" />
+<img height="164" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gobetti&theme=radical&layout=compact&custom_title=Time spent coding in the last 7 days:" />
 <img height="160" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=MatheusGobetti&layout=compact&theme=radical&langs_count=8" />
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=matheusgobetti&theme=radical&show_icons=true"/>
 
