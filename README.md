@@ -1,7 +1,5 @@
 ## Hello World! 👋
-### I'm Matheus, a 20 years old tech student 
-#### With a passion for learning new things and developing myself with technology knowledge, I'm currently studying Systems Analysis and Development at Fatec Ribeirão Preto. 
-#### To improve myself as a qualified professional for the job market, I've been gradually learning the following programming languages and technologies:
+### Developer learning the following technologies:
 
 <p>
   <img align="center" alt="HTML" height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
@@ -25,7 +23,6 @@
 
 -----------------
 <p>
-<img height="164" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gobetti&theme=radical&layout=compact&custom_title=Time spent coding in the last 7 days:" />
 <img height="160" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=MatheusGobetti&layout=compact&theme=radical&langs_count=8" />
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=matheusgobetti&theme=radical&show_icons=true"/>
 
