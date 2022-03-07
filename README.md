@@ -12,9 +12,7 @@
   <img align="center" alt="Flutter" height="30" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
 </p>
 
-### Feel free to contact me in the following ways:
-<a href="https://www.linkedin.com/in/matheusgobetti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:matheusgobetti12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 <p>
   <em>"The mind that opens to a new idea never returns to its original size.”</em>
   <img height="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ad.png?v8"/>
