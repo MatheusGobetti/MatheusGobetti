@@ -1,5 +1,5 @@
 ## Hello World! 👋
-### Developer learning the following technologies:
+### Full-Stack Developer exploring a variety of cutting-edge technologies:
 
 <p>
   <img align="center" alt="React" height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
