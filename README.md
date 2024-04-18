@@ -12,7 +12,6 @@
   <img align="center" alt="Typescript" height="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
 </p>
 
-
 <p>
   <em>"The mind that opens to a new idea never returns to its original size.”</em>
   <img height="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ad.png?v8"/>
@@ -25,6 +24,5 @@
 </p>
 
 <p>
-  Check my code activity on: [Wakatime](https://wakatime.com/@Gobetti)
+  Check my code activity on: https://wakatime.com/@Gobetti
 </p>
-
