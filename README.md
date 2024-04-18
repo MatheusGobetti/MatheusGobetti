@@ -23,5 +23,8 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=matheusgobetti&theme=radical&show_icons=true"/>
 </p>
 
+### 📊 Estatísticas de programação
 
-Check my code activity on: <a href="https://wakatime.com/@Gobetti" target="_blank">Wakatime</a>
+[![wakatime](https://wakatime.com/badge/user/46cd0af3-4f1f-4982-96e5-aa7db29d7ec1.svg)](https://wakatime.com/@46cd0af3-4f1f-4982-96e5-aa7db29d7ec1)
+
+<!--START_SECTION:waka-->
