@@ -1,0 +1,24 @@
+name: Update WakaTime stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'  # Atualiza todos os dias à meia-noite
+
+jobs:
+  update-readme:
+    name: Update this repo's README with WakaTime stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Install dependencies
+        run: pip install waka-readme
+      - name: Update README
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: python -m waka_readme
