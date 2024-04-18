@@ -23,6 +23,5 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=matheusgobetti&theme=radical&show_icons=true"/>
 </p>
 
-<p>
-  Check my code activity on: https://wakatime.com/@Gobetti
-</p>
+
+Check my code activity on: <a href="https://wakatime.com/@Gobetti" target="_blank">Wakatime</a>
